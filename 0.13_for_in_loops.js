@@ -34,3 +34,20 @@ for (var i in food) {
 }
 console.log("There are " + vowelCount + " vowels in " + food);
 
+
+//Two sets of questions below
+
+/*BRONZE: 
+	Create a while loop that counts to 20 by 2s.
+	Create a for loop that counts to 50 by 5s
+
+SILVER:
+	Create a for loop inside of a function that counts to 100 by 25s.
+	When you get to 50, print "Halfway there!"
+	Then call your function
+
+GOLD: 
+	Create a for loop that counts to 10.
+	Print each number, 1 through 8, 
+	but print 9 & 10 as "nine" & "ten"
+*/
