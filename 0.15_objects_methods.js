@@ -32,6 +32,7 @@ var melkor = Object.create(player); // This is how to create another object util
 melkor.name = "Melkor";
 
 
+
 var miley = Object.create(player);
 miley.name = "Miley";
 
