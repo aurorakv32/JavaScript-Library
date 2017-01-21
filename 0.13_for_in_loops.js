@@ -3,18 +3,18 @@
 // for(var i = 0; i < variable(etc); i++)
 
 
-// var footballTeam = "Packers";
-// for (i = 0; i < footballTeam.length; i++)
-// for (var letter in footballTeam) { // letter is now the lcv
-// 	console.log(footballTeam[letter]);
-// }
+var footballTeam = "Packers";
+for (i = 0; i < footballTeam.length; i++)
+for (var letter in footballTeam) { // letter is now the lcv
+	console.log(footballTeam[letter]);
+}
 
 // create a for in loop that prints each letter of your fav show
 
-// var show = "Once Upon A Time";
-// for (var i in show) {
-// 	console.log(show[i]);
-// }
+var show = "Once Upon A Time";
+for (var i in show) {
+	console.log(show[i]);
+}
 
 // create a for in loop for your favorite food
 // then can you count each vowel that occurs in that food?
